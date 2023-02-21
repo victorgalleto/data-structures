@@ -44,7 +44,7 @@ output = HashTable()
 
 output.readCsv()
 
-print(output.averaging('Jan 1', 'Jan 7'))
+
 
 
 
